@@ -4,3 +4,4 @@
 4.Education history
 Job 
 City
+Town
