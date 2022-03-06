@@ -1,0 +1,4 @@
+1.Name
+2.Surname
+3.Age
+4.Education history"Job" 
